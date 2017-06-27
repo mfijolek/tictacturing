@@ -1,0 +1,7 @@
+{
+	"root": "build/",
+	"clian_url":false,
+	"routes": {
+		"/**": "index.html"
+	}
+}
